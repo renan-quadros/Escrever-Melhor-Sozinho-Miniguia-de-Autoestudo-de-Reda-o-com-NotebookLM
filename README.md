@@ -40,47 +40,80 @@ Fontes abertas selecionadas e carregadas no NotebookLM:
 > Esta seção é para você preencher enquanto testa no NotebookLM — deixei os prompts sugeridos prontos e a estrutura de registro. Documentar o *processo real* (o que funcionou, o que não funcionou) é o que dá valor a essa seção.
 
 ### Prompt 1 — Extrair os critérios objetivos
-**Prompt sugerido:**
+
 ```
 Com base na Cartilha do Participante do INEP, liste as 5 competências avaliadas na redação do Enem e, para cada uma, escreva uma pergunta de autoavaliação que eu possa fazer ao meu próprio texto.
 ```
-**Resposta obtida (resumo):** *[preencha após testar]*
-**Fontes citadas pela IA:** *[preencha]*
-**Dificuldades encontradas:** *[ex: a IA generalizou demais / não citou a competência certa / etc.]*
-**Ajuste feito:** *[como você reformulou]*
-**Prompt refinado:** *[preencha]*
+De acordo com a Cartilha do Participante do Inep, a redação do Enem é avaliada por meio de cinco competências, cada uma valendo até 200 pontos
+. Abaixo, listo as competências e uma pergunta de autoavaliação para cada uma:
+Competência I: Demonstrar domínio da modalidade escrita formal da língua portuguesa. Esta competência avalia se o texto respeita as regras gramaticais, a ortografia, a acentuação e se apresenta uma construção sintática complexa e fluida
+.
+Pergunta de autoavaliação: "Meu texto segue as regras gramaticais da norma-padrão e utiliza um vocabulário formal, sem gírias, marcas de oralidade ou erros recorrentes de pontuação e concordância?"
+.
+Competência II: Compreender a proposta de redação e aplicar conceitos das várias áreas de conhecimento para desenvolver o tema dentro dos limites estruturais do texto dissertativo-argumentativo em prosa. Aqui, verifica-se se o candidato abordou o tema completo (sem tangenciar) e se utilizou um repertório sociocultural (conhecimentos de outras áreas como História, Sociologia ou Literatura) de forma produtiva
+.
+Pergunta de autoavaliação: "Eu abordei todos os elementos da frase temática e utilizei conhecimentos externos que realmente ajudam a validar o meu ponto de vista, em vez de apenas citar frases prontas?"
+.
+Competência III: Selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista. Esta competência foca na inteligibilidade do texto e na existência de um projeto de texto estratégico e claro
+.
+Pergunta de autoavaliação: "Os meus argumentos estão organizados de forma lógica e progressiva, mostrando que planejei a estrutura do texto para defender minha tese de maneira convincente?"
+.
+Competência IV: Demonstrar conhecimento dos mecanismos linguísticos necessários para a construção da argumentação. Avalia-se a coesão textual, ou seja, como as frases e os parágrafos são interligados por meio de conectivos e outros recursos para evitar repetições excessivas
+.
+Pergunta de autoavaliação: "Utilizei uma variedade de conectivos (como 'além disso', 'contudo', 'nesse sentido') para ligar minhas ideias, garantindo que o texto flua bem e que as partes não pareçam soltas?"
+.
+Competência V: Elaborar proposta de intervenção para o problema abordado, respeitando os direitos humanos. O candidato deve propor uma solução concreta para o problema discutido, contendo cinco elementos obrigatórios: agente, ação, meio/modo, efeito e detalhamento
+.
+Pergunta de autoavaliação: "Minha proposta de solução responde explicitamente quem fará, o que será feito, como será feito, qual o objetivo e inclui um detalhamento extra, tudo isso respeitando os direitos humanos?"
 
 ---
 
 ### Prompt 2 — Consolidar técnicas de autorrevisão
-**Prompt sugerido:**
+
 ```
 Compare as técnicas de autorrevisão mencionadas nos artigos carregados (leitura em etapas, leitura invertida, diário de erros, leitura em voz alta) e organize-as em uma checklist na ordem em que devem ser aplicadas após terminar de escrever um texto.
 ```
-**Resposta obtida (resumo):** *[preencha]*
-**Dificuldades encontradas:** *[preencha]*
-**Prompt refinado:** *[preencha]*
+Com base nos artigos fornecidos, a autorrevisão é uma etapa essencial para garantir a qualidade do texto, permitindo identificar erros de grafia, falta de coerência e problemas de coesão que podem passar despercebidos durante a escrita sob pressão
+.
+Abaixo, apresento uma comparação entre as técnicas mencionadas e uma checklist sugerida na ordem de aplicação após a conclusão do rascunho:
+Comparação das Técnicas de Autorrevisão
+Leitura em Etapas (Uma coisa de cada vez): Foca em isolar problemas específicos. O ideal é começar pelos pontos fracos (como pontuação ou coerência) e depois passar para repetições e ortografia
+.
+Leitura em Voz Alta: Serve para perceber a fluidez do texto. Ajuda a identificar repetições viciosas, falhas de coesão e problemas na construção das frases que a leitura silenciosa pode omitir
+.
+Leitura Invertida (De trás para frente): É uma técnica técnica para microdetalhes. Ao ler o texto de trás para frente, você quebra a sequência lógica e foca apenas na grafia das palavras, facilitando a identificação de erros de ortografia e acentuação
+.
+Diário de Erros (Acompanhamento): Mais do que uma revisão imediata, é uma estratégia de longo prazo. Consiste em categorizar os erros por competência e acompanhar os padrões de falhas para não repeti-los nos próximos textos
+.
+Checklist de Autorrevisão (Ordem de Aplicação)
+Após terminar de escrever seu texto, siga estes passos:
+[ ] Faça um "descanso" visual: Pare e respire fundo por 10 a 30 segundos antes de começar a ler, para distanciar-se do que acabou de escrever e ganhar um olhar mais crítico
+.
+[ ] Leitura em Etapas (Foco Global): Verifique primeiro se você atendeu ao tema, se a tese está clara e se os parágrafos estão conectados logicamente (coerência e coesão)
+.
+[ ] Leitura em Voz Alta (Foco no Ritmo): Leia o texto para si mesmo para encontrar frases muito longas, falta de conectivos ou palavras repetidas excessivamente
+.
+[ ] Leitura Invertida (Foco Gramatical): Leia as palavras isoladamente, do fim para o início do texto, para conferir acentuação e ortografia sem se distrair com o sentido das frases
+.
+[ ] Alimentação do Diário de Erros: Após identificar e corrigir as falhas (ou após receber uma correção externa), anote os erros cometidos separando-os pelas competências do Enem para evitar que apareçam na próxima produção
+.
+Dica extra dos fontes: Se você fizer qualquer alteração em uma frase durante a revisão, lembre-se de reler o parágrafo inteiro para garantir que a concordância e a lógica ainda façam sentido
 
 ---
 
 ### Prompt 3 — Testar se a IA "cola" nas fontes ou alucina
-**Prompt sugerido:**
+
 ```
 Existe alguma técnica nas fontes carregadas que recomenda pedir para a IA corrigir minha redação inteira? Responda apenas com base nos documentos, e diga "não encontrado" se não houver.
 ```
-**Objetivo do teste:** verificar se a IA inventa recomendações que não estão nas fontes (alucinação) — importante porque o tema é justamente *não* depender de correção externa.
-**Resultado:** *[preencha]*
+Não encontrado.
+Pelo contrário, as fontes advertem que o estudante deve evitar utilizar inteligências artificiais na hora de escrever o texto
+. A recomendação dos especialistas é não se sabotar pedindo ideias ao ChatGPT ou qualquer outra IA que entregue o conhecimento pronto, pois essa prática traz pouco aprendizado e não reflete as condições reais da prova, onde não há esse tipo de consulta
+. As fontes focam em técnicas de autorrevisão manual e sugerem, quando necessário, buscar correções feitas por professores especialistas
 
 ---
 
-### 💡 Principais aprendizados sobre prompt engineering (preencha ao final)
-- *[ex: pedir para a IA responder "com base apenas nas fontes" reduziu respostas genéricas]*
-- *[ex: prompts que pedem checklist/tabela geram material mais reutilizável que prompts abertos]*
-- *[ex: dividir "avaliação" e "técnica de revisão" em prompts separados trouxe respostas mais precisas]*
-
----
-
-## 📖 Miniguia de Estudo (Entrega Final)
+## 📖 Miniguia de Estudo
 
 ### Resumos Estruturados
 
@@ -146,4 +179,4 @@ Especialistas convergem em um ponto: qualidade da prática importa mais que quan
 - GitHub (versionamento e portfólio)
 
 ## 👤 Autor
-*[Seu nome]* — *[link do LinkedIn / portfólio, opcional]*
+Renan Silva Quadros
